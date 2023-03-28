@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Blog</title>
+</head>
+<body>
+    <header>
+        <h1>My Blog</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        <section>
+            <h2>Latest Posts</h2>
+            <article>
+                <h3>Post Title</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat tellus at eros porttitor posuere. Nunc accumsan justo sit amet mi dictum, a venenatis nisi blandit. Fusce posuere tristique urna in dapibus.</p>
+                <a href="#">
